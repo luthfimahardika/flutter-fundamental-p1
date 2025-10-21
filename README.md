@@ -8,6 +8,5 @@ A new Flutter project.
 
 ![Screenshot world_hello](images/03.png)
 
-LUTHFI PUTRA M_Screenshot Flutter1.pdf
-
-![world_hello](LUTHFI PUTRA M_Screenshot Flutter1.pdf)
+<<<<<<< HEAD
+![world_hello](file/LUTHFI%20PUTRA%20M_Screenshot%20Flutter1.pdf)
